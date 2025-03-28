@@ -27,8 +27,7 @@ The **SkyTravel Elite Rewards Program** is a Java-based application that allows 
 ## Installation & Usage
 
 1. Clone the repository:  
-     git clone https://github.com/your-username/SkyTravel-Rewards-Program.git  
-     cd SkyTravel-Rewards-Program  
+     git clone https://github.com/joshuajose23/Airline-Rewards-Program.git 
 
 2. Compile the Java files:  
    javac RewardsProgram.java RewardsMember.java  
