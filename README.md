@@ -40,9 +40,9 @@ The **SkyTravel Elite Rewards Program** is a Java-based application that allows 
 1. The user is welcomed to the SkyTravel Elite Rewards Program.
 
 2. They can choose between:
-   * Viewing the rewards program tiers and perks.
-   * Accessing their rewards member account.
-   * Exiting the program.
+* Viewing the rewards program tiers and perks.
+* Accessing their rewards member account.
+* Exiting the program.
 
 3. If they choose to view tiers, they can enter numbers (1-5) to see specific perks.
 
